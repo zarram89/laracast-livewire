@@ -1223,7 +1223,7 @@
         </header>
 
         <main class="mt-6">
-          <h1 class="text-xl">Hello Livewire</h1>
+          <livewire:greeter>
         </main>
       </div>
     </div>
